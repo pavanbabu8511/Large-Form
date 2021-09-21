@@ -1,0 +1,25 @@
+body{
+	background-image: url(https://www.setaswall.com/wp-content/uploads/2017/03/Bokeh-Water-Drops-Grass-Wallpaper-4K-Wallpaper-3840x2160-340x220.jpg);
+	opacity: 0.8;
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+fieldset{
+	color: white;
+	height: 70%;
+	width: 30%;
+
+}
+
+.submit{
+	background-color :green;
+}
+h3{
+	color:white;
+}
+#id1{
+	font-family: cursive;
+}
+.1{
+	text-align: right;
+}
