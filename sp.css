@@ -1,24 +1,31 @@
 body{
-	background-image: url(https://www.setaswall.com/wp-content/uploads/2017/03/Bokeh-Water-Drops-Grass-Wallpaper-4K-Wallpaper-3840x2160-340x220.jpg);
+	background-image: url(https://images.pexels.com/photos/683402/pexels-photo-683402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    
+    background-repeat: no-repeat;
 	opacity: 0.8;
 	background-repeat: no-repeat;
 	background-size: cover; 
 }
 fieldset{
-	color: white;
+	color: black;
+    font-weight:bold;
 	height: 70%;
 	width: 30%;
 
 }
 
 .submit{
-	background-color :green;
+	background-color :Red;
 }
 h3{
-	color:white;
+	color:Red;
+    background-color:Yellow;
+    width:50%;
 }
 #id1{
 	font-family: cursive;
+    color:white;
+  
 }
 .1{
 	text-align: right;
